@@ -1,0 +1,2 @@
+# use slots when u want to load multiple compoenet
+# bhot sare advantages over tradional each componeent add way se state apna apna rhega even default and other feature bhi sub nav routes or default componenet render bhi agar sub nav route me hoto /dashboard/archieved me.
